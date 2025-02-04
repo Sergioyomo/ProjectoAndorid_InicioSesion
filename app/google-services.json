@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "832047357123-407pmbaf70cd5aet7d6ap02j41d079ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sgomez.navegaciondetalle",
+            "certificate_hash": "ac5c536b704752065de05f36d6fe326523405943"
+          }
+        },
+        {
           "client_id": "832047357123-gerskjun6d9sladglhde6a8quaf6r7k0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
